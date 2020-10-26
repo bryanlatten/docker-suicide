@@ -1,4 +1,4 @@
-FROM behance/docker-nginx:8.1-alpine
+FROM behance/docker-nginx:8
 
 ENV LIFESPAN=60 \
     RANDOM_MIN=0 \
